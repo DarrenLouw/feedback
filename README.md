@@ -13,12 +13,12 @@ make sure your project:
 > download it from npm
 
 ```bash
-npm install ng-feedback --save
+npm install @bumblebee032/ng-feedback --save
 ```
 
 use the feedback module in your project, at any module, you just need to imports into your module:
 ```es6
-import { FeedbackModule } from 'ng-feedback'
+import { FeedbackModule } from '@bumblebee032/ng-feedback'
 ```
 
 easy to use the directive, just add it in a html tag, such as:
